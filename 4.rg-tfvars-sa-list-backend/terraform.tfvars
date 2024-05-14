@@ -1,0 +1,1 @@
+resource_group_names = ["yogesh_rg_1", "yogesh_rg_2"]
